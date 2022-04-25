@@ -1,0 +1,92 @@
+.stopCron {
+    animation: piscPisc 6s infinite;
+}
+
+.backgroundBody {
+    background-color: #EF5D50;
+    transition: ease-in-out .6s;
+}
+
+.backgroundRemove {
+    background-color: #ffffff;
+    transition: ease-in-out .6s;
+}
+
+@keyframes piscPisc {
+    0% {
+        color: white;
+    }
+
+    10% {
+        color: #EF5D50;
+    }
+
+    20% {
+        color: white;
+    }
+
+    30% {
+        color: #EF5D50;
+    }
+
+    40% {
+        color: white;
+    }
+
+    50% {
+        color: #EF5D50;
+    }
+
+    60% {
+        color: white;
+    }
+
+    70% {
+        color: #EF5D50;
+    }
+
+    80% {
+        color: white;
+    }
+
+    90% {
+        color: #EF5D50;
+    }
+
+    100% {
+        color: white;
+    }
+}
+
+@media screen and (max-width:361px) {
+    main {
+        width: 95%;
+
+    }
+
+    #clock {
+        font-size: 55px;
+    }
+}
+
+@media screen and (max-width:272px) {
+    .containerTimer {
+        padding: 5px;
+    }
+
+    #clock {
+        font-size: 50px;
+    }
+
+
+}
+
+@media screen and (max-width:251px) {
+  #clock {
+        font-size: 1.9em;
+}
+
+button{
+    margin-bottom:5px ;
+}
+}

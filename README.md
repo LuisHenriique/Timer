@@ -5,7 +5,7 @@
 <p align="center">Online Timer pode ser usado para cronometrar um tempo máximo para realizar alguma atividade.</p>
 <div align="center"> <img src  = "https://user-images.githubusercontent.com/96901986/165188219-7f41700a-e88f-434c-9d94-e9af54efef11.PNG"> <div>
  
-  > Link do projeto hospedado : <a href="https://timer-luishenriique.vercel.app/">Online Timer</a>
+  > Link do projeto hospedado : <a href="https://timer-luishenriique.vercel.app/">Online Timer.</a>
 
   
 

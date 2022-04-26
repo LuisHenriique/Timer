@@ -67,6 +67,10 @@
     #clock {
         font-size: 55px;
     }
+    .containerTimer {
+        height: 80px;
+    }
+
 }
 
 @media screen and (max-width:272px) {

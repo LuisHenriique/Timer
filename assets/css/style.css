@@ -63,7 +63,9 @@
         width: 95%;
 
     }
-
+    #clock {
+        font-size: 65px;
+    }
 
 }
 

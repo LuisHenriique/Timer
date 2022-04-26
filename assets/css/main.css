@@ -30,6 +30,10 @@
  }
 
  .containerTimer {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 77px;
     border-radius: 7px;
      background-color: #2f3033;
 
